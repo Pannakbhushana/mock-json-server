@@ -1,64 +1,9 @@
 {
-  "users": [
-    {
-      "username": "rahul mishra",
-      "email": "rahul@gmail.com",
-      "pass": "12345",
-      "doctor": true,
-      "id": 1
-    },
-    {
-      "username": "suraj mishra",
-      "email": "suraj@gmail.com",
-      "pass": "12345",
-      "doctor": true,
-      "id": 2
-    }
-  ],
-  "appointments": [
-    {
-      "name": "john padro",
-      "image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
-      "specialization": "heart",
-      "experience": "25",
-      "location": "Delhi",
-      "date": "2023-05-26",
-      "slots": "5",
-      "fee": "15000",
-      "id": 1
-    },
-    {
-      "name": "Raghav",
-      "image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
-      "specialization": "heart",
-      "experience": "25",
-      "location": "Delhi",
-      "date": "2023-05-26",
-      "slots": "5",
-      "fee": "15000",
-      "id": 2
-    },
-    {
-      "name": "Shivendra",
-      "image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
-      "specialization": "heart",
-      "experience": "25",
-      "location": "Delhi",
-      "date": "2023-05-26",
-      "slots": "5",
-      "fee": "15000",
-      "id": 3
-    },
-    {
-      "name": "sheldom",
-      "image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
-      "specialization": "heart",
-      "experience": "25",
-      "location": "Delhi",
-      "date": "2023-05-26",
-      "slots": "5",
-      "fee": "15000",
-      "id": 4
-    }
-  ]
-}
+    "data": [
+     
+    ],
+    "comments": [
+     
+    ],
+    "profile":[]
+  }

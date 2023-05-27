@@ -1,9 +1,92 @@
 {
-    "data": [
-     
-    ],
-    "comments": [
-     
-    ],
-    "appointment":[]
-  }
+  "freelancers": [
+    {
+      "name": "rahul",
+      "profile_picture": "https://images.unsplash.com/photo-1623230590824-f39e31a0a608?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwYm95fGVufDB8fDB8fHww&w=1000&q=80",
+      "email": "rahul@gmail.com",
+      "password": "rahul1234",
+      "profession": "Web Developer",
+      "skillls": "react",
+      "hourly_rate": "500",
+      "id": 1,
+      "isBooked": false
+    },
+    {
+      "name": "suraj mishra",
+      "profile_picture": "https://cdn.pixabay.com/photo/2017/07/31/22/45/fashion-2561753_1280.jpg",
+      "email": "suraj@gmail.com",
+      "password": "suraj123",
+      "profession": "Graphic Designer",
+      "skillls": "html css",
+      "hourly_rate": "400",
+      "id": 2,
+      "isBooked": false
+    },
+    {
+      "name": "sidharth",
+      "profile_picture": "https://funylife.in/wp-content/uploads/2022/11/20221118_172756-1024x1024.jpg",
+      "email": "sid@gmail.com",
+      "password": "sid123",
+      "profession": "Graphic Designer",
+      "skillls": "html css",
+      "hourly_rate": "300",
+      "id": 3,
+      "isBooked": false
+    },
+    {
+      "name": "tanmay",
+      "profile_picture": "https://i.pinimg.com/736x/a5/95/53/a59553b51e05985c0cafba435488aec2.jpg",
+      "email": "tanmay@gmail.com",
+      "password": "tanmay123",
+      "profession": "Web Developer",
+      "skillls": "javascript",
+      "hourly_rate": "200",
+      "id": 4,
+      "isBooked": false
+    },
+    {
+      "name": "Raghav",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSrb0654C73GRcmh19FOtIC7DXQU17Z7MhOQ&usqp=CAU",
+      "email": "raghav@gmail.com",
+      "password": "raghav123",
+      "profession": "Web Developer",
+      "skillls": "Angular Java",
+      "hourly_rate": "800",
+      "id": 5,
+      "isBooked": false
+    },
+    {
+      "name": "Arvind",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdK9dnsoc45G5w3H0jamnMRGkZ505LGI_Yg&usqp=CAU",
+      "email": "arvind@gmail.com",
+      "password": "arvind123",
+      "profession": "Web Developer",
+      "skillls": "mern stack",
+      "hourly_rate": "450",
+      "id": 6,
+      "isBooked": false
+    },
+    {
+      "name": "sushant",
+      "profile_picture": "https://images.unsplash.com/photo-1559629819-638a8f0a4303?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym95fGVufDB8fDB8fHww&w=1000&q=80",
+      "email": "shushant@gmail.com",
+      "password": "shushant123",
+      "profession": "Student",
+      "skillls": "java",
+      "hourly_rate": "150",
+      "id": 7,
+      "isBooked": false
+    },
+    {
+      "name": "john Narada",
+      "profile_picture": "https://images.pexels.com/photos/1553783/pexels-photo-1553783.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "email": "john@gmail.com",
+      "password": "john123",
+      "profession": "Graphic Designer",
+      "skillls": "Angular Java",
+      "hourly_rate": "750",
+      "isBooked": false,
+      "id": 8
+    }
+  ]
+}

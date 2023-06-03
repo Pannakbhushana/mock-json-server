@@ -88,5 +88,148 @@
       "isBooked": false,
       "id": 8
     }
+  ],
+  "forum": [
+    {
+      "id": 1,
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fpQ8EC-J45YmfHNBJ-IKNYhEOVmRDll2IDsz9EUBAg&s",
+      "username": "JohnDoe123",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "JavaScript",
+      "upvotes": 10,
+      "answers": 3,
+      "postedDate": "2023-05-30"
+    },
+    {
+      "username": "Rahul Mishra",
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujL_YH0A_DNVtxQMnBmBQ553WhOYMOalRAdEKp2KbIQ&s",
+      "questionTitle": "how can i learnre react",
+      "questionDescription": "i want to learn react",
+      "language": "React",
+      "upvotes": "9",
+      "postedDate": "2023-06-26",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fpQ8EC-J45YmfHNBJ-IKNYhEOVmRDll2IDsz9EUBAg&s",
+      "username": "JohnDoe123",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "JavaScript",
+      "upvotes": 10,
+      "answers": 3,
+      "postedDate": "2023-05-30"
+    },
+    {
+      "username": "Rahul Mishra",
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujL_YH0A_DNVtxQMnBmBQ553WhOYMOalRAdEKp2KbIQ&s",
+      "questionTitle": "how can i learnre react",
+      "questionDescription": "i want to learn react",
+      "language": "React",
+      "upvotes": "9",
+      "postedDate": "2023-06-26",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fpQ8EC-J45YmfHNBJ-IKNYhEOVmRDll2IDsz9EUBAg&s",
+      "username": "JohnDoe123",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "JavaScript",
+      "upvotes": 10,
+      "answers": 3,
+      "postedDate": "2023-05-30"
+    },
+    {
+      "username": "Rahul Mishra",
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujL_YH0A_DNVtxQMnBmBQ553WhOYMOalRAdEKp2KbIQ&s",
+      "questionTitle": "how can i learnre react",
+      "questionDescription": "i want to learn react",
+      "language": "React",
+      "upvotes": "9",
+      "postedDate": "2023-06-26",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fpQ8EC-J45YmfHNBJ-IKNYhEOVmRDll2IDsz9EUBAg&s",
+      "username": "JohnDoe123",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "JavaScript",
+      "upvotes": 10,
+      "answers": 3,
+      "postedDate": "2023-05-30"
+    },
+    {
+      "username": "Rahul Mishra",
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujL_YH0A_DNVtxQMnBmBQ553WhOYMOalRAdEKp2KbIQ&s",
+      "questionTitle": "how can i learnre react",
+      "questionDescription": "i want to learn react",
+      "language": "React",
+      "upvotes": "9",
+      "postedDate": "2023-06-26",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fpQ8EC-J45YmfHNBJ-IKNYhEOVmRDll2IDsz9EUBAg&s",
+      "username": "JohnDoe123",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "JavaScript",
+      "upvotes": 10,
+      "answers": 3,
+      "postedDate": "2023-05-30"
+    },
+    {
+      "username": "Rahul Mishra",
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujL_YH0A_DNVtxQMnBmBQ553WhOYMOalRAdEKp2KbIQ&s",
+      "questionTitle": "how can i learnre react",
+      "questionDescription": "i want to learn react",
+      "language": "React",
+      "upvotes": "9",
+      "postedDate": "2023-06-26",
+      "id": 10
+    },
+    {
+      "username": "shubhash",
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxp58J5sPJAQoTIhzXDWCZlBsJQsP2Qh9AJOdWwY&s",
+      "questionTitle": "how to create server",
+      "questionDescription": "i want to know how tcan i create my own server in node js",
+      "language": "Node js",
+      "upvotes": "10",
+      "postedDate": "2023-06-13",
+      "id": 11
+    }
+  ],
+  "answers": [
+    {
+      "id": 2,
+      "user_id": 1,
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fpQ8EC-J45YmfHNBJ-IKNYhEOVmRDll2IDsz9EUBAg&s",
+      "username": "JaneSmith456",
+      "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+      "postedDate": "2023-05-31"
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fpQ8EC-J45YmfHNBJ-IKNYhEOVmRDll2IDsz9EUBAg&s",
+      "username": "SamJohnson789",
+      "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+      "postedDate": "2023-06-01"
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fpQ8EC-J45YmfHNBJ-IKNYhEOVmRDll2IDsz9EUBAg&s",
+      "username": "EmilyBrownXYZ",
+      "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+      "postedDate": "2023-06-01"
+    }
   ]
 }

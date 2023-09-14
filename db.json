@@ -8,102 +8,14 @@
       "id": 1
     },
     {
-      "username": "ankit mishra",
+      "username": "rahul mishra",
       "avatar": "https://i.pinimg.com/originals/a8/81/58/a88158878268f537fad846856143364c.jpg",
-      "email": "ankit@gmail.com",
-      "password": "ankit123",
+      "email": "rahul@gmail.com",
+      "password": "rahul123",
       "id": 2
     }
   ],
-  "question": [
-    {
-      "id": 1,
-      "userAvatar": "https://i.pinimg.com/originals/8a/55/99/8a5599792c0d7b0a02377b97fafe76a9.jpg",
-      "username": "ruchi",
-      "questionTitle": "How to sort an array in JavaScript?",
-      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
-      "language": "JavaScript",
-      "upvotes": 10,
-      "answers": 3,
-      "postedDate": "2023-05-30"
-    },
-    {
-      "id": 2,
-      "userAvatar": "https://i.pinimg.com/originals/8a/55/99/8a5599792c0d7b0a02377b97fafe76a9.jpg",
-      "username": "ruchi",
-      "questionTitle": "How to sort an array in C++?",
-      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
-      "language": "C++",
-      "upvotes": 10,
-      "answers": 3,
-      "postedDate": "2023-05-30"
-    },
-    {
-      "id": 3,
-      "userAvatar": "https://i.pinimg.com/originals/8a/55/99/8a5599792c0d7b0a02377b97fafe76a9.jpg",
-      "username": "ruchi",
-      "questionTitle": "How to sort an array in Python?",
-      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
-      "language": "Python",
-      "upvotes": 10,
-      "answers": 3,
-      "postedDate": "2023-05-30"
-    },
-    {
-      "id": 4,
-      "userAvatar": "https://i.pinimg.com/originals/a8/81/58/a88158878268f537fad846856143364c.jpg",
-      "username": "ankit mishra",
-      "questionTitle": "How to sort an array in Java?",
-      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
-      "language": "Java",
-      "upvotes": 10,
-      "answers": 3,
-      "postedDate": "2023-05-30"
-    },
-    {
-      "id": 5,
-      "userAvatar": "https://i.pinimg.com/originals/a8/81/58/a88158878268f537fad846856143364c.jpg",
-      "username": "ankit mishra",
-      "questionTitle": "How to sort an array in JavaScript?",
-      "questionDescription": "I'm struggling with sorting an array in Java. Can someone please provide guidance?",
-      "language": "Java",
-      "upvotes": 10,
-      "answers": 3,
-      "postedDate": "2023-05-30"
-    },
-    {
-      "id": 6,
-      "userAvatar": "https://i.pinimg.com/originals/a8/81/58/a88158878268f537fad846856143364c.jpg",
-      "username": "ankit mishra",
-      "questionTitle": "How to sort an array in JavaScript?",
-      "questionDescription": "I'm struggling with sorting an array in Ruby. Can someone please provide guidance?",
-      "language": "Ruby",
-      "upvotes": 10,
-      "answers": 3,
-      "postedDate": "2023-05-30"
-    }
-  ],
-  "answers": [
-    {
-      "id": 1,
-      "userAvatar": "user_avatar2.png",
-      "username": "JaneSmith456",
-      "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
-      "postedDate": "2023-05-31"
-    },
-    {
-      "id": 2,
-      "userAvatar": "user_avatar3.png",
-      "username": "SamJohnson789",
-      "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
-      "postedDate": "2023-06-01"
-    },
-    {
-      "id": 3,
-      "userAvatar": "user_avatar4.png",
-      "username": "EmilyBrownXYZ",
-      "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
-      "postedDate": "2023-06-01"
-    }
-  ]
+  "data":[],
+  "data1":[],
+  "data2":[]
 }

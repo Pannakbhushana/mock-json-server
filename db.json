@@ -15,7 +15,49 @@
       "id": 2
     }
   ],
-  "data":[],
-  "data1":[],
-  "data2":[]
+  "dogs":[
+    {
+      "name": "Tommy",
+      "age": "2",
+      "gender": "male",
+      "place": "ranchi",
+      "id": 1
+    },
+    {
+      "name": "Cherry",
+      "age": "1",
+      "gender": "male",
+      "place": "gumla",
+      "id": 2
+    },
+    {
+      "name": "Zabra",
+      "age": "4",
+      "gender": "male",
+      "place": "Jaipur",
+      "id": 3
+    },
+    {
+      "name": "Gabbar",
+      "age": "6",
+      "gender": "male",
+      "place": "Rajasthan",
+      "id": 4
+    },
+    {
+      "name": "Vella",
+      "age": "3",
+      "gender": "male",
+      "place": "Bhopal",
+      "id": 5
+    },
+    {
+      "name": "Cuti",
+      "age": "3",
+      "gender": "femail",
+      "place": "Mumbai",
+      "id": 6
+    }
+  ]
+
 }

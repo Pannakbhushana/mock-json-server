@@ -54,35 +54,35 @@
     {
       "name": "Cuti",
       "age": "3",
-      "gender": "femail",
+      "gender": "female",
       "place": "Mumbai",
       "id": 6
     },
     {
       "name": "Perl",
       "age": "4",
-      "gender": "femail",
+      "gender": "female",
       "place": "Delhi",
       "id": 7
     },
     {
       "name": "Angel",
       "age": "5",
-      "gender": "femail",
+      "gender": "female",
       "place": "Gurugram",
       "id": 8
     },
     {
       "name": "Angalica",
       "age": "3",
-      "gender": "femail",
+      "gender": "female",
       "place": "Tamilnadu",
       "id": 9
     },
     {
       "name": "ragini",
       "age": "6",
-      "gender": "femail",
+      "gender": "female",
       "place": "Kerala",
       "id": 10
     }
